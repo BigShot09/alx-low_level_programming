@@ -2,7 +2,7 @@
 
 /**
  * _print_rev_recursion - Print a string in reverse
- * @s - String to be reversed
+ * @s: String to be reversed
  *
  * Return: nothing
  */

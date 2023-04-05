@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * _puts_recursion(char *s) - prints a sting followed by a new line
- * @s - string to be printed
+ * _puts_recursion - prints a sting followed by a new line
+ * @s: string to be printed
  *
  * Return: nothing
  */
